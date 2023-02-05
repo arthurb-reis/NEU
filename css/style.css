@@ -1,0 +1,120 @@
+.fundo {
+	position: absolute;
+	left: -630%;
+	right: 0%;
+	top: -120%;
+	bottom: 0%;
+
+	background: url(fundo.jpg);
+}
+
+.logoDiv {
+	position: absolute;
+	width: 100%;
+	top: 10%;
+	height: 15%;
+	/* align-items: center; */
+}
+	
+
+.logo {
+	height: 100%;
+	display: block;
+	position: relative;
+	margin: auto;
+	border-radius:50%;
+	/* align-items: center; */
+}
+
+.pelicula {
+	position: absolute;
+	left: 0%;
+	right: 0%;
+	top: 0%;
+	bottom: 0%;
+
+	background: rgba(0, 0, 0, 0.93);
+}
+
+.menu {
+	position: absolute;
+	left: 0%;
+	right: 0%;
+	top: 0%;
+	bottom: 92%;
+
+	background: #03A2C5;
+}
+
+.fundoPS {
+	position: absolute;
+	width: 74%;
+	left: 13%;
+	top: 50%;
+	bottom: 45%;
+	background: #03A2C5;
+	border-radius: 50px;
+}
+
+.fundoAreas {
+	position: absolute;
+	width: 74%;
+	left: 13%;
+	top: 58%;
+	bottom: 37%;
+	background: #03A2C5;
+	border-radius: 50px;
+}
+
+.fundoMembros {
+	position: absolute;
+	width: 74%;
+	left: 13%;
+	top: 66%;
+	bottom: 29%;
+	background: #03A2C5;
+	border-radius: 50px;
+}
+
+.fundoSug {
+	position: absolute;
+	width: 74%;
+	left: 13%;
+	top: 74%;
+	bottom: 21%;
+	background: #03A2C5;
+	border-radius: 50px;
+}
+
+.bemVindo {
+	position: absolute;
+	/* margin: auto; */
+	/* left: 50%; */
+	width: 100%;
+	/* top: 30%; */
+	bottom: 60%;
+	font-family: 'Michroma';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 350%;
+	/* line-height: 80px; */
+	text-align: center;
+	color: #FFFFFF;
+}
+
+.textoLink {
+	position: absolute;
+	width: 100%;
+	/* left: calc(50% - 575px/2 - 10.5px); */
+	top: 20%;
+	/* bottom: 4%; */
+	font-family: 'Michroma';
+	font-style: normal;
+	/* font-weight: 400; */
+	font-size: 160%;
+	/* line-height: 34px; */
+	/* display: flex; */
+	/* align-items: center; */
+	text-align: center;
+	color: #FFFFFF;
+}
